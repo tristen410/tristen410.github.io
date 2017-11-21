@@ -1,0 +1,50 @@
+body {
+	background-image: url(https://newmedia.report/images/classes/intro-to-interactives/background.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: auto;
+	display: table;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.center {
+	text-align: center;
+	vertical-align: middle;
+	display: table-cell;
+	color: white;
+}
+
+#layout {
+	padding-bottom: 0;
+}
+
+#line1only {
+	font-size: 90px;
+	font-family: "Times New Roman";
+}
+
+#line2only {
+	font-size: 30px;
+	font-family: "Times New Roman";
+}
+
+#line3only {
+	font-size: 15px;
+	font-family: "Arial";
+}
+
+#line4only {
+	font-size: 15px;
+	font-family: "Arial";
+}
+
+#colorDan {
+	color: aqua;
+}
+
